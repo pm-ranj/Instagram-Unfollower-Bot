@@ -16,7 +16,7 @@ mccabe==0.6.1
 moviepy==0.2.3.2
 numpy==1.16.2
 pefile==2019.4.18
-Pillow==5.4.1
+Pillow==8.2.0
 pycparser==2.19
 pylint==2.3.1
 python-telegram-bot==11.1.0
