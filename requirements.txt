@@ -1,7 +1,7 @@
 altgraph==0.16.1
 asn1crypto==0.24.0
 astroid==2.2.5
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 colorama==0.4.1
 cryptography==2.6.1
